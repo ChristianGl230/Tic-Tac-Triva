@@ -1,1 +1,1 @@
-# Tic-Tac-Triva
+# Tic-Tac-Trivia
